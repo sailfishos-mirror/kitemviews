@@ -22,6 +22,7 @@ include(ECMQtDeclareLoggingCategory)
 include(ECMDeprecationSettings)
 include(ECMGenerateQDoc)
 include(ECMPoQmTools)
+include(ECMInstalledLibraryCheck)
 include(CMakeDependentOption)
 include(CMakePackageConfigHelpers)
 
